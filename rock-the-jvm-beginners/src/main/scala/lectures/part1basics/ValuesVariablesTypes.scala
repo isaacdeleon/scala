@@ -5,7 +5,7 @@ package lectures.part1basics
   */
 object ValuesVariablesTypes extends App {
 
-  val x: Int = 42
+  val x: Int = 42 //vals are inmutable also declared: val x = 42
   println(x)
 
   // VALS ARE IMMUTABLE
