@@ -23,3 +23,5 @@ local.properties
 *.launch
 .buildpath
 dependency-reduced-pom.xml/target/l
+/project/*
+*/project/
